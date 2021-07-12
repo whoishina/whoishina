@@ -1,5 +1,5 @@
-<img align="left" width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoishina&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-<img width=300 height=170 align="right" src="https://github-readme-stats.vercel.app/api?username=whoishina&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+<img align="center" width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoishina&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+<img width=450 height=170 align="right" src="https://github-readme-stats.vercel.app/api?username=whoishina&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 <br/>
 ###👨🏻‍💻 About Me 
 
