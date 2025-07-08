@@ -2,8 +2,7 @@
 
 ```
 Im Hai, Full Stack developer from Vietnam
-私について知りたい場合は、テキストで自分自身を説明する\n
-のに問題があります-右の写真をご覧ください
+おは〜
 ```
 
 ```text
